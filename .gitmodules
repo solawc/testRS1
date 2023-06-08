@@ -1,0 +1,3 @@
+[submodule "ESP32_LCD_PICO"]
+	path = ESP32_LCD_PICO
+	url = https://github.com/solawc/ESP32_LCD_PICO
